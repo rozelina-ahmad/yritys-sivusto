@@ -1,0 +1,20 @@
+
+  
+  [
+  {
+    "nimi": "Matti Meikäläinen",
+    "tehtava": "Toimitusjohtaja",
+    "sahkoposti": "matti@yritys.fi"
+  },
+  {
+    "nimi": "Maija Virtanen",
+    "tehtava": "Myyntipäällikkö",
+    "sahkoposti": "maija@yritys.fi"
+  },
+  {
+    "nimi": "Mikko Korhonen",
+    "tehtava": "Ohjelmistokehittäjä",
+    "sahkoposti": "mikko@yritys.fi"
+  }
+  ]     
+  
